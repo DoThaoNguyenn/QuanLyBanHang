@@ -1,0 +1,32 @@
+R:\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+R:\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+R:\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+R:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+R:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.SuggestedBindingRedirects.cache
+R:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.FormMain.resources
+R:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.FormQuanLyHoaDon.resources
+R:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.FormQuanLyKhachHang.resources
+R:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.FormQuanLyKho.resources
+R:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.FormQuanLySanPham.resources
+R:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.FormQuanLyTaiKhoan.resources
+R:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+R:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+R:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+R:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+R:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+C:\Users\asus\Downloads\2022-12-02 [01.05.19] 336.T6\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\2022-12-02 [01.05.19] 336.T6\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Downloads\2022-12-02 [01.05.19] 336.T6\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.FormMain.resources
+C:\Users\asus\Downloads\2022-12-02 [01.05.19] 336.T6\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.FormQuanLyHoaDon.resources
+C:\Users\asus\Downloads\2022-12-02 [01.05.19] 336.T6\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.FormQuanLyKhachHang.resources
+C:\Users\asus\Downloads\2022-12-02 [01.05.19] 336.T6\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.FormQuanLyKho.resources
+C:\Users\asus\Downloads\2022-12-02 [01.05.19] 336.T6\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.FormQuanLySanPham.resources
+C:\Users\asus\Downloads\2022-12-02 [01.05.19] 336.T6\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.FormQuanLyTaiKhoan.resources
+C:\Users\asus\Downloads\2022-12-02 [01.05.19] 336.T6\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+C:\Users\asus\Downloads\2022-12-02 [01.05.19] 336.T6\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\2022-12-02 [01.05.19] 336.T6\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\2022-12-02 [01.05.19] 336.T6\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+C:\Users\asus\Downloads\2022-12-02 [01.05.19] 336.T6\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+C:\Users\asus\Downloads\2022-12-02 [01.05.19] 336.T6\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+C:\Users\asus\Downloads\2022-12-02 [01.05.19] 336.T6\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+C:\Users\asus\Downloads\2022-12-02 [01.05.19] 336.T6\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
